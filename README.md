@@ -1,0 +1,2 @@
+# flask_app
+FLASK BASED APP WEBAPP ON AZURE
